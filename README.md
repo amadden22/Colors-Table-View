@@ -1,2 +1,5 @@
 # Colors-Table-View
-Solution to the Colors Table View Challenge
+
+Description: An iOS app with a View Controller that contains a Table View that displays a list of colors.
+
+Purpose: The challenge provides experience with View Controllers, Table Views, and Swift Collections.
